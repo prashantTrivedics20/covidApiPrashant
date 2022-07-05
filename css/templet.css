@@ -144,7 +144,7 @@ aside .art {
 #section-3 {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 200px;
+    /* margin-bottom: 200px; */
 }
 
 #section-3 .box {
@@ -157,6 +157,8 @@ aside .art {
 }
 
 footer {
+    left: 0px;
+    bottom: 0px;
     margin-top: 50px;
     width: 100%;
     height: 100px;
